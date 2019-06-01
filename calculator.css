@@ -1,0 +1,14 @@
+div.right
+{
+    position:fixed;
+    overflow: hidden;
+    right:0%;
+    margin-right:30%;
+}
+div.left
+{
+    position: fixed;
+    overflow: hidden;
+    left:0%;
+    margin-left:30%;
+}
